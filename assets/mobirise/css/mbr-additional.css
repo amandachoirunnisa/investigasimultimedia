@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Anton:400);
+@import url(https://fonts.googleapis.com/css?family=Staatliches:400);
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One:400);
 @import url(https://fonts.googleapis.com/css?family=Questrial:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
@@ -23,7 +23,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Staatliches', display;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -2154,39 +2154,44 @@ body {
 .cid-rukPms6jhL {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/pijat-650x366.jpg");
 }
 .cid-rukPms6jhL H2 {
   text-align: center;
 }
 .cid-rukQJKbKLP {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #465052;
 }
 .cid-rukQJKbKLP .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rukQJKbKLP H2 {
   text-align: left;
+  color: #ffffff;
+}
+.cid-rukQJKbKLP .mbr-section-subtitle DIV {
+  color: #ffffff;
 }
 .cid-rukRd4wGCO {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukRd4wGCO .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rukRd4wGCO H2 {
   text-align: left;
+  color: #ffffff;
 }
 .cid-rukROhK8RT {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukROhK8RT .line {
   background-color: #149dcc;
@@ -2197,6 +2202,7 @@ body {
 }
 .cid-rukROhK8RT .section-text {
   padding: 2rem 0;
+  color: #ffffff;
 }
 .cid-rukROhK8RT .inner-container {
   margin: 0 auto;
@@ -2208,28 +2214,35 @@ body {
 }
 .cid-rukRWvyMLY {
   padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #465052;
 }
 .cid-rukRWvyMLY .mbr-text,
 .cid-rukRWvyMLY blockquote {
   color: #767676;
 }
+.cid-rukRWvyMLY .mbr-text DIV {
+  color: #ffffff;
+}
+.cid-rukRWvyMLY .mbr-text P {
+  color: #ffffff;
+}
 .cid-rukSKZgAwx {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukSKZgAwx .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rukSKZgAwx H2 {
   text-align: left;
+  color: #ffffff;
 }
 .cid-rukT46WnOo {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukT46WnOo .counter-container {
   color: #767676;
@@ -2256,37 +2269,47 @@ body {
   margin: 5px 10px;
   line-height: 40px;
   transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
+  color: #000000;
+  background: #ffffff;
   width: 40px;
   height: 40px;
   border-radius: 50%;
 }
+.cid-rukT46WnOo .mbr-text LI {
+  color: #ffffff;
+}
 .cid-rukUU2qYv0 {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukUU2qYv0 .mbr-text,
 .cid-rukUU2qYv0 blockquote {
   color: #767676;
 }
+.cid-rukUU2qYv0 .mbr-text DIV {
+  color: #ffffff;
+}
+.cid-rukUU2qYv0 .mbr-text P {
+  color: #ffffff;
+}
 .cid-rukVkx2uB3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/gives-700x393.jpg");
 }
 .cid-rukWrIR14o {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukWrIR14o .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rukWrIR14o H2 {
   text-align: left;
+  color: #ffffff;
 }
 .cid-rul27Hropn .google-map {
   height: 25rem;
@@ -2317,11 +2340,14 @@ body {
 .cid-rukYMzGPXv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rukYMzGPXv .mbr-text,
 .cid-rukYMzGPXv blockquote {
   color: #767676;
+}
+.cid-rukYMzGPXv .mbr-text P {
+  color: #ffffff;
 }
 .cid-rulavDKdRr {
   padding-top: 90px;
@@ -2337,17 +2363,17 @@ body {
   flex-wrap: wrap;
 }
 .cid-rulavDKdRr .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rulavDKdRr .mbr-author-desc {
   display: block;
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rulavDKdRr .mbr-author-name {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rulavDKdRr .mbr-testimonial .panel-item {
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rulavDKdRr .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
