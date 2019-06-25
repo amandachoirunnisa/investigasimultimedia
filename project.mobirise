@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Investigasi Multimedia",
-    "currentPage": ".html",
+    "currentPage": "pijat-plus-plus.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1354,9 +1354,9 @@
       },
       "components": []
     },
-    ".html": {
+    "pijat-plus-plus.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "Primadona Pria Hidung Belang Kota Metropolitan",
         "title": "INVESTIGASI PIJAT PLUS-PLUS",
         "order": 1
       },
